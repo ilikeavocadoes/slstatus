@@ -66,6 +66,6 @@ static const struct arg args[] = {
 	{ disk_free, " 💾 %s", "/" },
 	{ battery_perc, " | ⚡ %s", "BAT0" },
 	{ battery_state, " %s", "BAT0" },
-	{ wifi_essid, " | 📶 %s", "wlp108s0" },
+	{ wifi_essid, " | 📶 %s", "wlp0s20f3" },
 	{ datetime, " | %s",           "%F %T" },
 };
